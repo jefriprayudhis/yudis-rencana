@@ -2,3 +2,5 @@ yudis resolusi
 -belajar css tiap hari
 -membuat website design
 -belajar backend dev
+-membuat web responsive
+-belajar sass
